@@ -24,7 +24,7 @@
     "@types/node": "^20.13.0",
     "@unocss/reset": "^0.60.4",
     "fs-extra": "^11.2.0",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.2.0",
     "shiki": "^1.6.1",
     "typescript": "^5.4.5",
     "unocss": "^0.60.4",
